@@ -1,0 +1,40 @@
+/* add your CSS here */
+
+.card {
+    border: solid lightgrey 2px; 
+    background: rgb(249,249,249);
+    background: linear-gradient(9deg, rgba(249,249,249,1) 38%, rgba(211,211,218,1) 63%, rgba(207,228,232,0.9990371148459384) 89%);
+    box-shadow: 5px 5px 5px lightgrey;
+    width:310px;
+    margin:auto;
+    padding:10px 8px 12px 15px
+}
+
+
+h3{
+    color:black;
+    font-variant: small-caps;
+    font-size:25px;
+    padding:2px
+}
+
+.info,.animalpic {
+    border:groove lightgrey 1px;
+    font-family:"Times New Roman", Times, serif;
+    vertical-align: top;
+    width:300px;
+    padding:40;
+    margin-top:10px;
+ }
+
+span{font-weight:bold}
+
+.fact{font-style: italic;}
+
+ul{ 
+    list-style:none; 
+    padding:0px 10px 0px 10px; 
+        } 
+
+p{padding:10px}
+  
