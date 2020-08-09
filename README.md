@@ -1,5 +1,5 @@
 # Ud-Projects
-Udacity's Intro to Programming  Projects I completed.
+<h1>Completed Udacity's Intro to Programming  Projects </h1>
 
 
 <em>Animal Trading Cards</em> is for the HTML - CSS portion. 
